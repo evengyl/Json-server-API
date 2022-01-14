@@ -2,9 +2,9 @@
   "name": "dataset_api",
   "version": "1.0.0",
   "description": "Api avec des datas pour les students",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server --watch db.js"
+    "start": "node server.js"
   },
   "author": "Bstorm",
   "license": "ISC",
