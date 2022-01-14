@@ -1,0 +1,4450 @@
+[
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "86bcf13fa24c623852fb761ff92b5d923f697fe6",
+        "fields": {
+            "conso_moyenne_mwh": 16.86829784949544,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_secteur_naf2": "42",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 16.86829784949544,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "232181c81abf71651927aadfc064512f8bb96433",
+        "fields": {
+            "conso_moyenne_mwh": 14.053687828826494,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_secteur_naf2": "43",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 3,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 42.16106348647948,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "cbe6da1ffb480aff79c35f83107b96d17bdb3cef",
+        "fields": {
+            "conso_moyenne_mwh": 63.7641499971442,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "46",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 3,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 191.2924499914326,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "97fad77de7b01fa487182fdecbc286fedb10ed3c",
+        "fields": {
+            "conso_moyenne_mwh": 1170.3465,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "49",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 1170.3465,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "f790ee4d8bbfe29de7ede29e015c7adb32abebb3",
+        "fields": {
+            "conso_moyenne_mwh": 15.335073138055318,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "66",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 15.335073138055318,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "7216e74836d478dd864c1a7f2e684de0929119a3",
+        "fields": {
+            "conso_moyenne_mwh": 133.71064048019807,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "85",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 133.71064048019807,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "92ac5e7e563d57657816a2385a2db5d166c31eaa",
+        "fields": {
+            "conso_moyenne_mwh": 3.9055975245719137,
+            "conso_moyenne_corrigee_de_l_alea_climatique_usages_thermosensibles_mwh": 0.9954422647330045,
+            "conso_totale_usages_thermosensibles_mwh": 2222.2249444327135,
+            "code_grand_secteur": "RESIDENTIEL",
+            "thermosensibilite_totale_kwh_dju": 1627.6080350000002,
+            "geom": {
+                "coordinates": [
+                    [
+                        [
+                            -0.37734089860000003,
+                            49.129924286
+                        ],
+                        [
+                            -0.3773702183,
+                            49.1300584494
+                        ],
+                        [
+                            -0.3757931708,
+                            49.1301423271
+                        ],
+                        [
+                            -0.3757346643,
+                            49.1298128022
+                        ],
+                        [
+                            -0.37511308660000003,
+                            49.1299544372
+                        ],
+                        [
+                            -0.3748507721,
+                            49.1298853068
+                        ],
+                        [
+                            -0.3707686778,
+                            49.1304803504
+                        ],
+                        [
+                            -0.3681724101,
+                            49.1307915714
+                        ],
+                        [
+                            -0.3661927139,
+                            49.1309261949
+                        ],
+                        [
+                            -0.3641452808,
+                            49.1399186015
+                        ],
+                        [
+                            -0.3640002509,
+                            49.1410007333
+                        ],
+                        [
+                            -0.36446806600000003,
+                            49.1410866371
+                        ],
+                        [
+                            -0.36312640560000004,
+                            49.1434692818
+                        ],
+                        [
+                            -0.3610985587,
+                            49.1467151735
+                        ],
+                        [
+                            -0.3602758213,
+                            49.1465932762
+                        ],
+                        [
+                            -0.3594552514,
+                            49.1489568018
+                        ],
+                        [
+                            -0.3574105101,
+                            49.1534719062
+                        ],
+                        [
+                            -0.35813212650000004,
+                            49.1535138585
+                        ],
+                        [
+                            -0.35756940330000003,
+                            49.1557099737
+                        ],
+                        [
+                            -0.35761867210000003,
+                            49.1562368278
+                        ],
+                        [
+                            -0.359156586,
+                            49.1585605813
+                        ],
+                        [
+                            -0.3584839729,
+                            49.1588097257
+                        ],
+                        [
+                            -0.3588322967,
+                            49.1594200179
+                        ],
+                        [
+                            -0.3614001056,
+                            49.1587534921
+                        ],
+                        [
+                            -0.3615585679,
+                            49.1591441118
+                        ],
+                        [
+                            -0.3620614687,
+                            49.1594297205
+                        ],
+                        [
+                            -0.36353826780000004,
+                            49.1594784357
+                        ],
+                        [
+                            -0.366112992,
+                            49.1598050822
+                        ],
+                        [
+                            -0.3660596223,
+                            49.159912761
+                        ],
+                        [
+                            -0.3671607355,
+                            49.1600286335
+                        ],
+                        [
+                            -0.3671259951,
+                            49.1603382645
+                        ],
+                        [
+                            -0.36754159340000003,
+                            49.1604202216
+                        ],
+                        [
+                            -0.365392716,
+                            49.1655880406
+                        ],
+                        [
+                            -0.3665509341,
+                            49.1657572168
+                        ],
+                        [
+                            -0.3674191732,
+                            49.1665734075
+                        ],
+                        [
+                            -0.36773436860000003,
+                            49.16654569
+                        ],
+                        [
+                            -0.36880511600000004,
+                            49.1633049617
+                        ],
+                        [
+                            -0.3695695787,
+                            49.1621902053
+                        ],
+                        [
+                            -0.3706107528,
+                            49.1612584658
+                        ],
+                        [
+                            -0.3710338331,
+                            49.1604439199
+                        ],
+                        [
+                            -0.3712047384,
+                            49.1586861608
+                        ],
+                        [
+                            -0.3716735397,
+                            49.1566572841
+                        ],
+                        [
+                            -0.37281659100000003,
+                            49.154743584
+                        ],
+                        [
+                            -0.3734700998,
+                            49.1540557454
+                        ],
+                        [
+                            -0.37479547890000003,
+                            49.1522259946
+                        ],
+                        [
+                            -0.3753775272,
+                            49.1518317116
+                        ],
+                        [
+                            -0.3769466433,
+                            49.1511955483
+                        ],
+                        [
+                            -0.37730036,
+                            49.1511289258
+                        ],
+                        [
+                            -0.3805225839,
+                            49.1517538416
+                        ],
+                        [
+                            -0.3821726848,
+                            49.1521691096
+                        ],
+                        [
+                            -0.38308181960000004,
+                            49.1524981063
+                        ],
+                        [
+                            -0.38383743000000003,
+                            49.1532696632
+                        ],
+                        [
+                            -0.3841852175,
+                            49.1535109514
+                        ],
+                        [
+                            -0.3850938196,
+                            49.153810252
+                        ],
+                        [
+                            -0.3874389501,
+                            49.153900828
+                        ],
+                        [
+                            -0.3896277165,
+                            49.1543899185
+                        ],
+                        [
+                            -0.39056580500000004,
+                            49.1544264784
+                        ],
+                        [
+                            -0.3915866275,
+                            49.1543437121
+                        ],
+                        [
+                            -0.39299718580000004,
+                            49.1540321711
+                        ],
+                        [
+                            -0.39412652140000004,
+                            49.1538887291
+                        ],
+                        [
+                            -0.3949829191,
+                            49.1536629886
+                        ],
+                        [
+                            -0.3959415391,
+                            49.1532597757
+                        ],
+                        [
+                            -0.3971907751,
+                            49.1524559917
+                        ],
+                        [
+                            -0.3983029548,
+                            49.1512160121
+                        ],
+                        [
+                            -0.3984267851,
+                            49.1506572737
+                        ],
+                        [
+                            -0.3974940482,
+                            49.1490709909
+                        ],
+                        [
+                            -0.3972960028,
+                            49.1479346044
+                        ],
+                        [
+                            -0.3973137343,
+                            49.1458427208
+                        ],
+                        [
+                            -0.39767376460000003,
+                            49.1442847098
+                        ],
+                        [
+                            -0.3982646285,
+                            49.143276318
+                        ],
+                        [
+                            -0.3986478519,
+                            49.1421559004
+                        ],
+                        [
+                            -0.3994042662,
+                            49.14105823
+                        ],
+                        [
+                            -0.39351937940000004,
+                            49.1399195375
+                        ],
+                        [
+                            -0.39322747410000003,
+                            49.1398395817
+                        ],
+                        [
+                            -0.39222453960000003,
+                            49.1393117274
+                        ],
+                        [
+                            -0.39336422590000003,
+                            49.1384102637
+                        ],
+                        [
+                            -0.3945001053,
+                            49.1377023762
+                        ],
+                        [
+                            -0.3954228516,
+                            49.1365892329
+                        ],
+                        [
+                            -0.39482675170000003,
+                            49.1363459851
+                        ],
+                        [
+                            -0.39149043650000004,
+                            49.1343235157
+                        ],
+                        [
+                            -0.38922373390000004,
+                            49.1340139522
+                        ],
+                        [
+                            -0.3859355238,
+                            49.1338330015
+                        ],
+                        [
+                            -0.38623170300000004,
+                            49.1314623885
+                        ],
+                        [
+                            -0.3868956019,
+                            49.1294098819
+                        ],
+                        [
+                            -0.386990388,
+                            49.128657581
+                        ],
+                        [
+                            -0.3854364108,
+                            49.1286950413
+                        ],
+                        [
+                            -0.3834491171,
+                            49.1288796618
+                        ],
+                        [
+                            -0.38091180410000003,
+                            49.1292515979
+                        ],
+                        [
+                            -0.37734089860000003,
+                            49.129924286
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "thermosensibilite_moyenne_kwh_dju": 0.6573538105815833,
+            "nom_commune": "Fleury-sur-Orne",
+            "superficie_des_logements_30_m2": 5.21948181365222,
+            "nb_sites": 2476,
+            "code_departement": "14",
+            "annee": "2020",
+            "code_region": "28",
+            "type_epci": "CU",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "taux_de_logements_collectifs": 39.9762992478726,
+            "dju_a_tn": 1514.3173260870014,
+            "taux_de_chauffage_electrique": 26.9118834080717,
+            "taux_de_residences_principales": 98.9232887601851,
+            "residences_principales_apres_2011": 7.44110612855007,
+            "residences_principales_de_2006_a_2010": 6.71399601395117,
+            "conso_totale_corrigee_de_l_alea_climatique_usages_thermosensibles_mwh": 2464.715047478919,
+            "conso_totale_usages_non_thermosensibles_mwh": 7448.034526407344,
+            "nombre_de_mailles_secretisees": 0,
+            "residences_principales_de_1991_a_2005": 18.1177727952167,
+            "superficie_des_logements_100_m2": 19.6093522670653,
+            "dju_a_tr": 1365.3317608700017,
+            "superficie_des_logements_60_a_80_m2": 25.9730044843049,
+            "superficie_des_logements_30_a_40_m2": 6.67622820129547,
+            "part_thermosensible": 22.98,
+            "nom_region": "Normandie",
+            "nombre_d_habitants": 4915,
+            "code_categorie_consommation": "RES",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 9670.259470840057,
+            "conso_moyenne_usages_non_thermosensibles_mwh": 3.0080914888559547,
+            "superficie_des_logements_80_a_100_m2": 27.4762132536124,
+            "superficie_des_logements_40_a_60_m2": 15.0457199800698,
+            "residences_principales_avant_1919": 6.35022421524664,
+            "residences_principales_de_1971_a_1990": 33.1056701544594,
+            "conso_moyenne_usages_thermosensibles_mwh": 0.8975060357159587,
+            "residences_principales_de_1946_a_1970": 24.7985102142501,
+            "residences_principales_de_1919_a_1945": 3.47272047832586
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "52f245d2dc2cdc2dd625b4fd5bbdb82083be6e60",
+        "fields": {
+            "conso_moyenne_mwh": 64.28354553319068,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_secteur_naf2": "10",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 2,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 128.56709106638135,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "5ab49b64cae0e575ea5ed35cf91e1e3d695e513e",
+        "fields": {
+            "conso_moyenne_mwh": 46.35469909335878,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "64",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 46.35469909335878,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "b0cd21b787d39dcb7e6cb498f61d4d7d066b3e31",
+        "fields": {
+            "conso_moyenne_mwh": 25.215361915664953,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_secteur_naf2": "41",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 5,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 126.07680957832476,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "94a69a7777a348fc1087f63f8f63d06de87b478f",
+        "fields": {
+            "conso_moyenne_mwh": 84.84652463712882,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "68",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 6,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 509.0791478227729,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "709caa18efad708f52b6276bb8801d9fbeeb2cf4",
+        "fields": {
+            "conso_moyenne_mwh": 99.36756092452687,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "71",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 2,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 198.73512184905374,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "5df201b7b44b80fd4069ceaf8d3f58f80685f722",
+        "fields": {
+            "nombre_de_mailles_secretisees": 1,
+            "code_grand_secteur": "INCONNU",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "cc2a6c3778d29c194f10d46d56b6bc5c997b2a45",
+        "fields": {
+            "conso_moyenne_mwh": 52.686380048986,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "45",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 3,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 158.059140146958,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "8681aeb20953f5f08dc517464b0204ade13d870c",
+        "fields": {
+            "conso_moyenne_mwh": 6.659150750987406,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 36,
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 239.7294270355466,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "99d9d52c0fbf6bde2d696e58012102c26f966172",
+        "fields": {
+            "conso_moyenne_mwh": 17.99095965473306,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "36",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 17.99095965473306,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "029534fb9c8add89e918252554ed957541cf1468",
+        "fields": {
+            "conso_moyenne_mwh": 554.2473338539169,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "47",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 7,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 3879.731336977418,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "35d9084573f1416a14be568faadb187b01fbb04a",
+        "fields": {
+            "conso_moyenne_mwh": 16.616781878627734,
+            "nombre_de_mailles_secretisees": 1,
+            "code_grand_secteur": "AGRICULTURE",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 4,
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 66.46712751451093,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "475d068b54882f99bc0039be2095fbaa56b511dc",
+        "fields": {
+            "conso_moyenne_mwh": 9.937056491427954,
+            "nombre_de_mailles_secretisees": 1,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 282,
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 2802.249930582683,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "e9d37f775771916b826a33505a62fd3ad027f664",
+        "fields": {
+            "conso_moyenne_mwh": 50.928067528520465,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "69",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 3,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 152.7842025855614,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "0a3e8a739da8dd325b45b859da7fdb4358f1c483",
+        "fields": {
+            "conso_moyenne_mwh": 116.46005338313367,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "65",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 116.46005338313367,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "f2980da5518a561c0ee1c78360e3aa9fc8872d60",
+        "fields": {
+            "conso_moyenne_mwh": 88.35947159843184,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "84",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 3,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 265.0784147952955,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "731e8f69000192f1a7b9025bbe3baa4ec4961e35",
+        "fields": {
+            "conso_moyenne_mwh": 273.08830318740286,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "87",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 2,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 546.1766063748057,
+            "annee": "2020",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2021-06-30T09:29:23.480+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "3bae1fe9a5ee48a214ffcdd00ea229974a65e5bd",
+        "fields": {
+            "conso_moyenne_mwh": 20.20045385856333,
+            "nombre_de_mailles_secretisees": 1,
+            "code_grand_secteur": "AGRICULTURE",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 4,
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 80.80181543425331,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "a2abe6b6f1b925915e1140b0c847f98aaa7be22a",
+        "fields": {
+            "conso_moyenne_mwh": 10.599108149351121,
+            "nombre_de_mailles_secretisees": 1,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 165,
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 1748.852844642935,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "3364a5eb964cca0ce8c3b26595613b12987a1033",
+        "fields": {
+            "conso_moyenne_mwh": 881.243333,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "49",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 881.243333,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "29ece6c14edb3dd205cd9646544e04a0e6fdc46f",
+        "fields": {
+            "conso_moyenne_mwh": 206.54795175348409,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "87",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 4,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 826.1918070139363,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "25550c471f1b6a427bc947005f3ac7841d107130",
+        "fields": {
+            "conso_moyenne_mwh": 206.60103467955398,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_secteur_naf2": "28",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 206.60103467955398,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "8c4bd91f83d449cb05def74de6b42104ebfbe79a",
+        "fields": {
+            "conso_moyenne_mwh": 23.287127262131534,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_secteur_naf2": "41",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 3,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 69.8613817863946,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "d8a42fdeddff72a0c9abf72d4b649f71a3a5eddc",
+        "fields": {
+            "conso_moyenne_mwh": 72.22727722678798,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "68",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 4,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 288.9091089071519,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "4f37fdd05da7972f736bbc2301e809220d8866a1",
+        "fields": {
+            "conso_moyenne_mwh": 96.68884836525157,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "84",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 3,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 290.0665450957547,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "fcaacc70ffa909b3d19903adf8f4c7a0364b43a5",
+        "fields": {
+            "conso_moyenne_mwh": 65.06532543515682,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "46",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 3,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 195.19597630547045,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "3621db925d22ed7e265b31a6967d52c8740626d2",
+        "fields": {
+            "conso_moyenne_mwh": 12.069746016349415,
+            "nombre_de_mailles_secretisees": 1,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 17,
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 205.18568227794006,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "f897c54ba56585ec828cdaec3e9b572d4dc7d05f",
+        "fields": {
+            "conso_moyenne_mwh": 37.29446197375624,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_secteur_naf2": "42",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 37.29446197375624,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "f40bd5d6e93db4838f019c7a5372f7681646777d",
+        "fields": {
+            "conso_moyenne_mwh": 23.527887151326084,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "36",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 23.527887151326084,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "241f9edb41f443ed873404081687360c6f727de6",
+        "fields": {
+            "conso_moyenne_mwh": 31.224779355952688,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "71",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 31.224779355952688,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "46e4cb4c0686487f2ff072fa8c6780352e1cdd8e",
+        "fields": {
+            "conso_moyenne_mwh": 636.5203543878067,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "47",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 7,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 4455.642480714647,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "4dee2885616512219b172f2f269cd46a6fd4bee5",
+        "fields": {
+            "conso_moyenne_mwh": 53.94611854182112,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "69",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 3,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 161.83835562546338,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "13881cc267574ef05d016fb1a4cf307d6873c073",
+        "fields": {
+            "conso_moyenne_mwh": 37.44827862077487,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "70",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 37.44827862077487,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "7fcd9e9358ce5303530614e6e2e2fcd4e2aaf72c",
+        "fields": {
+            "conso_moyenne_mwh": 3.7874586467331604,
+            "conso_moyenne_corrigee_de_l_alea_climatique_usages_thermosensibles_mwh": 0.9889017921545495,
+            "conso_totale_usages_thermosensibles_mwh": 2522.55491901591,
+            "code_grand_secteur": "RESIDENTIEL",
+            "thermosensibilite_totale_kwh_dju": 1623.5847039999999,
+            "geom": {
+                "coordinates": [
+                    [
+                        [
+                            -0.37734089860000003,
+                            49.129924286
+                        ],
+                        [
+                            -0.3773702183,
+                            49.1300584494
+                        ],
+                        [
+                            -0.3757931708,
+                            49.1301423271
+                        ],
+                        [
+                            -0.3757346643,
+                            49.1298128022
+                        ],
+                        [
+                            -0.37511308660000003,
+                            49.1299544372
+                        ],
+                        [
+                            -0.3748507721,
+                            49.1298853068
+                        ],
+                        [
+                            -0.3707686778,
+                            49.1304803504
+                        ],
+                        [
+                            -0.3681724101,
+                            49.1307915714
+                        ],
+                        [
+                            -0.3661927139,
+                            49.1309261949
+                        ],
+                        [
+                            -0.3641452808,
+                            49.1399186015
+                        ],
+                        [
+                            -0.3640002509,
+                            49.1410007333
+                        ],
+                        [
+                            -0.36446806600000003,
+                            49.1410866371
+                        ],
+                        [
+                            -0.36312640560000004,
+                            49.1434692818
+                        ],
+                        [
+                            -0.3610985587,
+                            49.1467151735
+                        ],
+                        [
+                            -0.3602758213,
+                            49.1465932762
+                        ],
+                        [
+                            -0.3594552514,
+                            49.1489568018
+                        ],
+                        [
+                            -0.3574105101,
+                            49.1534719062
+                        ],
+                        [
+                            -0.35813212650000004,
+                            49.1535138585
+                        ],
+                        [
+                            -0.35756940330000003,
+                            49.1557099737
+                        ],
+                        [
+                            -0.35761867210000003,
+                            49.1562368278
+                        ],
+                        [
+                            -0.359156586,
+                            49.1585605813
+                        ],
+                        [
+                            -0.3584839729,
+                            49.1588097257
+                        ],
+                        [
+                            -0.3588322967,
+                            49.1594200179
+                        ],
+                        [
+                            -0.3614001056,
+                            49.1587534921
+                        ],
+                        [
+                            -0.3615585679,
+                            49.1591441118
+                        ],
+                        [
+                            -0.3620614687,
+                            49.1594297205
+                        ],
+                        [
+                            -0.36353826780000004,
+                            49.1594784357
+                        ],
+                        [
+                            -0.366112992,
+                            49.1598050822
+                        ],
+                        [
+                            -0.3660596223,
+                            49.159912761
+                        ],
+                        [
+                            -0.3671607355,
+                            49.1600286335
+                        ],
+                        [
+                            -0.3671259951,
+                            49.1603382645
+                        ],
+                        [
+                            -0.36754159340000003,
+                            49.1604202216
+                        ],
+                        [
+                            -0.365392716,
+                            49.1655880406
+                        ],
+                        [
+                            -0.3665509341,
+                            49.1657572168
+                        ],
+                        [
+                            -0.3674191732,
+                            49.1665734075
+                        ],
+                        [
+                            -0.36773436860000003,
+                            49.16654569
+                        ],
+                        [
+                            -0.36880511600000004,
+                            49.1633049617
+                        ],
+                        [
+                            -0.3695695787,
+                            49.1621902053
+                        ],
+                        [
+                            -0.3706107528,
+                            49.1612584658
+                        ],
+                        [
+                            -0.3710338331,
+                            49.1604439199
+                        ],
+                        [
+                            -0.3712047384,
+                            49.1586861608
+                        ],
+                        [
+                            -0.3716735397,
+                            49.1566572841
+                        ],
+                        [
+                            -0.37281659100000003,
+                            49.154743584
+                        ],
+                        [
+                            -0.3734700998,
+                            49.1540557454
+                        ],
+                        [
+                            -0.37479547890000003,
+                            49.1522259946
+                        ],
+                        [
+                            -0.3753775272,
+                            49.1518317116
+                        ],
+                        [
+                            -0.3769466433,
+                            49.1511955483
+                        ],
+                        [
+                            -0.37730036,
+                            49.1511289258
+                        ],
+                        [
+                            -0.3805225839,
+                            49.1517538416
+                        ],
+                        [
+                            -0.3821726848,
+                            49.1521691096
+                        ],
+                        [
+                            -0.38308181960000004,
+                            49.1524981063
+                        ],
+                        [
+                            -0.38383743000000003,
+                            49.1532696632
+                        ],
+                        [
+                            -0.3841852175,
+                            49.1535109514
+                        ],
+                        [
+                            -0.3850938196,
+                            49.153810252
+                        ],
+                        [
+                            -0.3874389501,
+                            49.153900828
+                        ],
+                        [
+                            -0.3896277165,
+                            49.1543899185
+                        ],
+                        [
+                            -0.39056580500000004,
+                            49.1544264784
+                        ],
+                        [
+                            -0.3915866275,
+                            49.1543437121
+                        ],
+                        [
+                            -0.39299718580000004,
+                            49.1540321711
+                        ],
+                        [
+                            -0.39412652140000004,
+                            49.1538887291
+                        ],
+                        [
+                            -0.3949829191,
+                            49.1536629886
+                        ],
+                        [
+                            -0.3959415391,
+                            49.1532597757
+                        ],
+                        [
+                            -0.3971907751,
+                            49.1524559917
+                        ],
+                        [
+                            -0.3983029548,
+                            49.1512160121
+                        ],
+                        [
+                            -0.3984267851,
+                            49.1506572737
+                        ],
+                        [
+                            -0.3974940482,
+                            49.1490709909
+                        ],
+                        [
+                            -0.3972960028,
+                            49.1479346044
+                        ],
+                        [
+                            -0.3973137343,
+                            49.1458427208
+                        ],
+                        [
+                            -0.39767376460000003,
+                            49.1442847098
+                        ],
+                        [
+                            -0.3982646285,
+                            49.143276318
+                        ],
+                        [
+                            -0.3986478519,
+                            49.1421559004
+                        ],
+                        [
+                            -0.3994042662,
+                            49.14105823
+                        ],
+                        [
+                            -0.39351937940000004,
+                            49.1399195375
+                        ],
+                        [
+                            -0.39322747410000003,
+                            49.1398395817
+                        ],
+                        [
+                            -0.39222453960000003,
+                            49.1393117274
+                        ],
+                        [
+                            -0.39336422590000003,
+                            49.1384102637
+                        ],
+                        [
+                            -0.3945001053,
+                            49.1377023762
+                        ],
+                        [
+                            -0.3954228516,
+                            49.1365892329
+                        ],
+                        [
+                            -0.39482675170000003,
+                            49.1363459851
+                        ],
+                        [
+                            -0.39149043650000004,
+                            49.1343235157
+                        ],
+                        [
+                            -0.38922373390000004,
+                            49.1340139522
+                        ],
+                        [
+                            -0.3859355238,
+                            49.1338330015
+                        ],
+                        [
+                            -0.38623170300000004,
+                            49.1314623885
+                        ],
+                        [
+                            -0.3868956019,
+                            49.1294098819
+                        ],
+                        [
+                            -0.386990388,
+                            49.128657581
+                        ],
+                        [
+                            -0.3854364108,
+                            49.1286950413
+                        ],
+                        [
+                            -0.3834491171,
+                            49.1288796618
+                        ],
+                        [
+                            -0.38091180410000003,
+                            49.1292515979
+                        ],
+                        [
+                            -0.37734089860000003,
+                            49.129924286
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "thermosensibilite_moyenne_kwh_dju": 0.6565243445208249,
+            "nom_commune": "Fleury-sur-Orne",
+            "superficie_des_logements_30_m2": 5.21948181365222,
+            "nb_sites": 2473,
+            "code_departement": "14",
+            "annee": "2019",
+            "code_region": "28",
+            "type_epci": "CU",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "taux_de_logements_collectifs": 39.9762992478726,
+            "dju_a_tn": 1506.2682753619986,
+            "taux_de_chauffage_electrique": 26.9118834080717,
+            "taux_de_residences_principales": 98.9232887601851,
+            "residences_principales_apres_2011": 7.44110612855007,
+            "residences_principales_de_2006_a_2010": 6.71399601395117,
+            "conso_totale_corrigee_de_l_alea_climatique_usages_thermosensibles_mwh": 2445.554131998201,
+            "conso_totale_usages_non_thermosensibles_mwh": 6843.830314355195,
+            "nombre_de_mailles_secretisees": 0,
+            "residences_principales_de_1991_a_2005": 18.1177727952167,
+            "superficie_des_logements_100_m2": 19.6093522670653,
+            "dju_a_tr": 1553.6946811590005,
+            "superficie_des_logements_60_a_80_m2": 25.9730044843049,
+            "superficie_des_logements_30_a_40_m2": 6.67622820129547,
+            "part_thermosensible": 26.93,
+            "nom_region": "Normandie",
+            "nombre_d_habitants": 4422,
+            "code_categorie_consommation": "RES",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 9366.385233371106,
+            "conso_moyenne_usages_non_thermosensibles_mwh": 2.7674202645997554,
+            "superficie_des_logements_80_a_100_m2": 27.4762132536124,
+            "superficie_des_logements_40_a_60_m2": 15.0457199800698,
+            "residences_principales_avant_1919": 6.35022421524664,
+            "residences_principales_de_1971_a_1990": 33.1056701544594,
+            "conso_moyenne_usages_thermosensibles_mwh": 1.0200383821334047,
+            "residences_principales_de_1946_a_1970": 24.7985102142501,
+            "residences_principales_de_1919_a_1945": 3.47272047832586
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "465a5e0c3b5cea40d8fc9343940939584a06d87e",
+        "fields": {
+            "conso_moyenne_mwh": 95.1956995051501,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_secteur_naf2": "10",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 95.1956995051501,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "0476fa0cfb960f397360d76450344c7fe453d647",
+        "fields": {
+            "conso_moyenne_mwh": 61.181563411460566,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "45",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 3,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 183.5446902343817,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "dca52113cd60ff7f6b71cb450fca41e4169de92a",
+        "fields": {
+            "conso_moyenne_mwh": 46.16793853141926,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "64",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 46.16793853141926,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "a23901a73811b177f1328fc57a54d9dd567dc457",
+        "fields": {
+            "conso_moyenne_mwh": 7.916945558136692,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "INCONNU",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 126,
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 997.5351403252232,
+            "annee": "2019",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-10-09T16:20:34.920+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "7952530ae524762d1e9cac188e5df5cf5b970534",
+        "fields": {
+            "conso_moyenne_mwh": 674.1606933020223,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "47",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 7,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 4719.124853114156,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "23fa4a939ccc85f7fd7c0b89d6232d2755bfe29d",
+        "fields": {
+            "conso_moyenne_mwh": 70.99799999994693,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "49",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 70.99799999994693,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "ddcddbb29e4f2fae7a356d5320f03dfa5ed0bf75",
+        "fields": {
+            "conso_moyenne_mwh": 53.42436635222934,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "69",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 3,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 160.27309905668804,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "805b8712bdc7ff9a761ccd4df10bbf1cc6ac3bbf",
+        "fields": {
+            "conso_moyenne_mwh": 26.624795768262448,
+            "nombre_de_mailles_secretisees": 1,
+            "code_grand_secteur": "AGRICULTURE",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 3,
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 79.87438730478733,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "be3ebecc21c0d862a112f25c1bba3ba318be2649",
+        "fields": {
+            "conso_moyenne_mwh": 11.187875885031968,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 145,
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 1622.2420033296355,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "a215afbd1394bb9db5ea087605fc56b21ed387bf",
+        "fields": {
+            "conso_moyenne_mwh": 99.30852580030087,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_secteur_naf2": "10",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 99.30852580030087,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "b8b712ed85db8c3e5dfe560a8c9c8236147f1346",
+        "fields": {
+            "conso_moyenne_mwh": 74.53570533010274,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_secteur_naf2": "41",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 2,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 149.0714106602055,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "6a4ee2084b46be26acaa9f43e31b189cf8f356b1",
+        "fields": {
+            "conso_moyenne_mwh": 23.47414405734999,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "36",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 23.47414405734999,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "0372e2fac728149ae2c46f63f595f9fd08163c34",
+        "fields": {
+            "conso_moyenne_mwh": 412.84791850192903,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_secteur_naf2": "28",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 412.84791850192903,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "87b3c8fca052c9f3065c07d3d14f57416ae27c48",
+        "fields": {
+            "conso_moyenne_mwh": 61.99542676603166,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "45",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 3,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 185.986280298095,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "c12aec22df86ac166ed1a67ab5a675f495e19ccc",
+        "fields": {
+            "conso_moyenne_mwh": 47.19429379371393,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "64",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 47.19429379371393,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "57161c00111ad5f24f286c2d590dbf88e9d566dc",
+        "fields": {
+            "conso_moyenne_mwh": 14.039208092836825,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_secteur_naf2": "43",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 2,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 28.07841618567365,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "9ab82a22a61af40c386d721a6f39dac7381593b1",
+        "fields": {
+            "conso_moyenne_mwh": 87.51742516854583,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "68",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 3,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 262.55227550563745,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "5a8369062679060fe5b028f7f515ea6338e28579",
+        "fields": {
+            "conso_moyenne_mwh": 96.76957764566504,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "84",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 3,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 290.3087329369951,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "3ddbcf60dc74d1edb3c6e9b01692b6466b3a2ad8",
+        "fields": {
+            "conso_moyenne_mwh": 209.73561760300677,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "87",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 4,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 838.9424704120271,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "84efb38ba0b0918845ae81518798d7d84fc5a9c4",
+        "fields": {
+            "conso_moyenne_mwh": 8.341153503145222,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "INCONNU",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 131,
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 1092.691108912024,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "f28a5cff07efca1b93baf0d93bb5f29884928f33",
+        "fields": {
+            "conso_moyenne_mwh": 33.955734109770916,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_secteur_naf2": "42",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 33.955734109770916,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "e1ea6cad8e5986d9a44ac9b609f768c46ac61a74",
+        "fields": {
+            "conso_moyenne_mwh": 54.00321073923585,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "46",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 4,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 216.0128429569434,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "3c33e36207850926d70fc530e14f6cda81f5c5e3",
+        "fields": {
+            "conso_moyenne_mwh": 35.34633569119685,
+            "nombre_de_mailles_secretisees": 0,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_secteur_naf2": "70",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 35.34633569119685,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "04eeb5c2072478759fa92375b09e68c3fb5be2df",
+        "fields": {
+            "conso_moyenne_mwh": 3.9258376089077665,
+            "conso_moyenne_corrigee_de_l_alea_climatique_usages_thermosensibles_mwh": 1.0384674566013319,
+            "conso_totale_usages_thermosensibles_mwh": 2607.844851533416,
+            "code_grand_secteur": "RESIDENTIEL",
+            "thermosensibilite_totale_kwh_dju": 1670.4193136643294,
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "thermosensibilite_moyenne_kwh_dju": 0.6913987225431827,
+            "nom_commune": "Fleury-sur-Orne",
+            "superficie_des_logements_30_m2": 5.21948181365222,
+            "nb_sites": 2416,
+            "code_departement": "14",
+            "annee": "2018",
+            "code_region": "28",
+            "type_epci": "CU",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "taux_de_logements_collectifs": 39.9762992478726,
+            "dju_a_tn": 1501.9805833333344,
+            "taux_de_chauffage_electrique": 26.9118834080717,
+            "taux_de_residences_principales": 98.9232887601851,
+            "residences_principales_apres_2011": 7.44110612855007,
+            "residences_principales_de_2006_a_2010": 6.71399601395117,
+            "conso_totale_corrigee_de_l_alea_climatique_usages_thermosensibles_mwh": 2508.9373751488174,
+            "conso_totale_usages_non_thermosensibles_mwh": 6876.978811587748,
+            "nombre_de_mailles_secretisees": 1,
+            "residences_principales_de_1991_a_2005": 18.1177727952167,
+            "superficie_des_logements_100_m2": 19.6093522670653,
+            "dju_a_tr": 1561.1917500000018,
+            "superficie_des_logements_60_a_80_m2": 25.9730044843049,
+            "superficie_des_logements_30_a_40_m2": 6.67622820129547,
+            "part_thermosensible": 27.49,
+            "nom_region": "Normandie",
+            "nombre_d_habitants": 4422,
+            "code_categorie_consommation": "RES",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 9484.823663121164,
+            "conso_moyenne_usages_non_thermosensibles_mwh": 2.8464316273128096,
+            "superficie_des_logements_80_a_100_m2": 27.4762132536124,
+            "superficie_des_logements_40_a_60_m2": 15.0457199800698,
+            "residences_principales_avant_1919": 6.35022421524664,
+            "residences_principales_de_1971_a_1990": 33.1056701544594,
+            "conso_moyenne_usages_thermosensibles_mwh": 1.079405981594957,
+            "residences_principales_de_1946_a_1970": 24.7985102142501,
+            "residences_principales_de_1919_a_1945": 3.47272047832586
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "c1125b6072449a515affb3725a6373304a0c634a",
+        "fields": {
+            "conso_moyenne_mwh": 14.327600072502257,
+            "nombre_de_mailles_secretisees": 1,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 14,
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 200.5864010150316,
+            "annee": "2018",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-05-04T10:20:30.301+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "15ec89841b73cc0465d21bc90a865ae5febda1ff",
+        "fields": {
+            "conso_moyenne_mwh": 3.938523,
+            "conso_moyenne_corrigee_de_l_alea_climatique_usages_thermosensibles_mwh": 1.07,
+            "conso_totale_usages_thermosensibles_mwh": 2604.237,
+            "code_grand_secteur": "RESIDENTIEL",
+            "thermosensibilite_totale_kwh_dju": 1790.949,
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "thermosensibilite_moyenne_kwh_dju": 0.742516169154229,
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 2412,
+            "code_departement": "14",
+            "annee": "2017",
+            "code_region": "28",
+            "type_epci": "CU",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "conso_totale_corrigee_de_l_alea_climatique_usages_thermosensibles_mwh": 2581.164,
+            "conso_totale_usages_non_thermosensibles_mwh": 6895.481,
+            "nombre_de_mailles_secretisees": 1,
+            "dju_a_tr": 1454.11,
+            "part_thermosensible": 27.414,
+            "nom_region": "Normandie",
+            "code_categorie_consommation": "RES",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 9499.718,
+            "conso_moyenne_usages_non_thermosensibles_mwh": 2.859,
+            "conso_moyenne_usages_thermosensibles_mwh": 1.08
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:29:51.086+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "b3f37ea0cf0311b55cffed64a2f4280319dcd6d4",
+        "fields": {
+            "code_grand_secteur": "AGRICULTURE",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 0,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 0.0,
+            "annee": "2017",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:29:51.086+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "cf6a5bcf4570ed1535dc3b739e6f417bd7ad3c2d",
+        "fields": {
+            "code_grand_secteur": "INCONNU",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 0,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 0.0,
+            "annee": "2017",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:29:51.086+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "36e012316c8e916c633d3433cbf205fffe0f7d63",
+        "fields": {
+            "conso_moyenne_mwh": 240.3103,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 29,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 6969.975,
+            "annee": "2017",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:29:51.086+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "5273234d3834f98511ef4a5b8e3e113e777d10c5",
+        "fields": {
+            "conso_moyenne_mwh": 79.0,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 8,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 632.418,
+            "annee": "2017",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:29:51.086+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "6df439b2ae9899362a4096e20afee24da91129b1",
+        "fields": {
+            "code_grand_secteur": "PETIT_PROFESSIONNEL",
+            "dju_a_tr": 1454.11,
+            "code_epci": "200065597",
+            "nom_epci": "CU Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "annee": "2017",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:29:51.086+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "a569725eb9faea6f79a6bb32cc29d0772aadc5e0",
+        "fields": {
+            "conso_moyenne_mwh": 11.1562810522788,
+            "code_grand_secteur": "PETIT_PROFESSIONNEL",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 282,
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 3146.071256742622,
+            "annee": "2016",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:33.234+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "ba0ddc3c71af74fc8a94cc3ac6891b1d3750ee13",
+        "fields": {
+            "conso_moyenne_mwh": 272.912853310222,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 28,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 7641.55989268621,
+            "annee": "2016",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:33.234+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "f71f5b510129a1c00eb1ae46974583661f24dbd9",
+        "fields": {
+            "conso_moyenne_mwh": 87.0035104910801,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 7,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 609.024573437561,
+            "annee": "2016",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:33.234+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "907fddbf6f58d26d1adbc4a2d2e046fb877eafb8",
+        "fields": {
+            "conso_moyenne_mwh": 0.0,
+            "code_grand_secteur": "INCONNU",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 0,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 0.0,
+            "annee": "2016",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:33.234+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "b3147342b74648a855a50e97bd4f5238f6284e9a",
+        "fields": {
+            "conso_moyenne_mwh": 4.09885896625803,
+            "code_grand_secteur": "RESIDENTIEL",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 2360,
+            "code_departement": "14",
+            "code_categorie_consommation": "RES",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 9673.30716036895,
+            "annee": "2016",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:33.234+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "b5b429ef20726446173e9f3d7e001aa02b2e820c",
+        "fields": {
+            "conso_moyenne_mwh": 0.0,
+            "code_grand_secteur": "AGRICULTURE",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 0,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 0.0,
+            "annee": "2016",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:33.234+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "6a950c4ac2301bdeb110a28719328bfa20214146",
+        "fields": {
+            "conso_moyenne_mwh": 97.9912174897469,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 7,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 685.938522428228,
+            "annee": "2015",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:24.357+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "cd67b84832f4a7f5b8242cd02a08c6526def0d12",
+        "fields": {
+            "conso_moyenne_mwh": 11.299764887608,
+            "code_grand_secteur": "PETIT_PROFESSIONNEL",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 277,
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 3130.0348738674206,
+            "annee": "2015",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:24.357+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "115508fc24775f97b7dcd6354f3a7ab89acf75f3",
+        "fields": {
+            "conso_moyenne_mwh": 0.0,
+            "code_grand_secteur": "INCONNU",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 0,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 0.0,
+            "annee": "2015",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:24.357+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "6a6fc15159e4242131e51be7e36d8d65378ef040",
+        "fields": {
+            "conso_moyenne_mwh": 0.0,
+            "code_grand_secteur": "AGRICULTURE",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 0,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 0.0,
+            "annee": "2015",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:24.357+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "deb3c47fe5d3b40abb60347140d771b513ee817e",
+        "fields": {
+            "conso_moyenne_mwh": 269.71197099656,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 28,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 7551.93518790367,
+            "annee": "2015",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:24.357+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "ed9193bfa074c5d3c47ea5f4068922c21bab5c7d",
+        "fields": {
+            "conso_moyenne_mwh": 4.075370137709,
+            "code_grand_secteur": "RESIDENTIEL",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 2240,
+            "code_departement": "14",
+            "code_categorie_consommation": "RES",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 9128.829108468153,
+            "annee": "2015",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:24.357+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "8466fe8aef9b37696db64f067445f3813ab7f3f3",
+        "fields": {
+            "conso_moyenne_mwh": 3.9531739533198,
+            "code_grand_secteur": "RESIDENTIEL",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 2216,
+            "code_departement": "14",
+            "code_categorie_consommation": "RES",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 8760.233480556677,
+            "annee": "2014",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:31.702+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "fb2e16afd327107178af2eb412fc2771774411d8",
+        "fields": {
+            "conso_moyenne_mwh": 10.9174959356247,
+            "code_grand_secteur": "PETIT_PROFESSIONNEL",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 282,
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 3078.733853846154,
+            "annee": "2014",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:31.702+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "702b68d1dddc6346cb9a3abb298b9c7f0c22c31c",
+        "fields": {
+            "conso_moyenne_mwh": 0.0,
+            "code_grand_secteur": "AGRICULTURE",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 0,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 0.0,
+            "annee": "2014",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:31.702+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "3b4b961fd320161695b0ad41e5c4024521c25fb5",
+        "fields": {
+            "conso_moyenne_mwh": 0.0,
+            "code_grand_secteur": "INCONNU",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 0,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 0.0,
+            "annee": "2014",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:31.702+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "f379a39dc1131200613c22f6a5da5686f59855df",
+        "fields": {
+            "conso_moyenne_mwh": 278.066973530579,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 27,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 7507.80828532564,
+            "annee": "2014",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:31.702+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "9ba79fd11fad0f067088bbf41a84a6cfd58ccb35",
+        "fields": {
+            "conso_moyenne_mwh": 107.581405807525,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 6,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 645.488434845148,
+            "annee": "2014",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:31.702+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "a3904f95670d5db5431e223d79cb7a29a655ff0b",
+        "fields": {
+            "conso_moyenne_mwh": 117.624200351518,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 6,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 705.745202109111,
+            "annee": "2013",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:27.125+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "6429a69d26a88ed2d76fcab6d3a7457c33f7f253",
+        "fields": {
+            "conso_moyenne_mwh": 273.560246898104,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 27,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 7386.12666624882,
+            "annee": "2013",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:27.125+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "daf60d0bf69b00ba8379ac9f587449de338b36a3",
+        "fields": {
+            "conso_moyenne_mwh": 0.0,
+            "code_grand_secteur": "INCONNU",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 0,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 0.0,
+            "annee": "2013",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:27.125+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "d391e5efd7b5cf00320723df2e46108645089c14",
+        "fields": {
+            "conso_moyenne_mwh": 0.0,
+            "code_grand_secteur": "AGRICULTURE",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 0,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 0.0,
+            "annee": "2013",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:27.125+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "465f52101ff7b4b148ba11bc03af7673be1c45e6",
+        "fields": {
+            "conso_moyenne_mwh": 11.7066966101545,
+            "code_grand_secteur": "PETIT_PROFESSIONNEL",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 279,
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 3266.1683542330975,
+            "annee": "2013",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:27.125+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "0cc5f316ee7324ec44e66b332be1b00cd2b3dd28",
+        "fields": {
+            "conso_moyenne_mwh": 4.37498212651327,
+            "code_grand_secteur": "RESIDENTIEL",
+            "code_epci": "200033157",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 2149,
+            "code_departement": "14",
+            "code_categorie_consommation": "RES",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 9401.836589877028,
+            "annee": "2013",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:27.125+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "b11642a78d126c1eaf2281fe4ce9aafa2bf1cddb",
+        "fields": {
+            "conso_moyenne_mwh": 266.398465681802,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_epci": "241400498",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 26,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 6926.36010772685,
+            "annee": "2012",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:37.914+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "5a43982323c972f809742535071b4b05ec0a3d81",
+        "fields": {
+            "code_grand_secteur": "PETIT_PROFESSIONNEL",
+            "code_epci": "241400498",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "annee": "2012",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:37.914+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "0350434d7b7d8a3d17ac8d04636f2ca482e4c1a2",
+        "fields": {
+            "code_grand_secteur": "RESIDENTIEL",
+            "code_epci": "241400498",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "code_departement": "14",
+            "code_categorie_consommation": "RES",
+            "nom_departement": "Calvados",
+            "annee": "2012",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:37.914+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "cb534cb0496f31ae31ce0ffb20bdf5bfd8ed514d",
+        "fields": {
+            "conso_moyenne_mwh": 0.0,
+            "code_grand_secteur": "INCONNU",
+            "code_epci": "241400498",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 0,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 0.0,
+            "annee": "2012",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:37.914+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "4a3de6297051c40606689e0d4bdf5b144b917693",
+        "fields": {
+            "conso_moyenne_mwh": 0.0,
+            "code_grand_secteur": "AGRICULTURE",
+            "code_epci": "241400498",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 0,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 0.0,
+            "annee": "2012",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:37.914+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "36e127b4c3cd759a8694e9bfb62d6568e4753b95",
+        "fields": {
+            "conso_moyenne_mwh": 116.830409378121,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_epci": "241400498",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 6,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 700.982456268723,
+            "annee": "2012",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:37.914+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "48c4e734f97bb1ef5c0da7a4a0cd9275bb8d086d",
+        "fields": {
+            "code_grand_secteur": "RESIDENTIEL",
+            "code_epci": "241400498",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "code_departement": "14",
+            "code_categorie_consommation": "RES",
+            "nom_departement": "Calvados",
+            "annee": "2011",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:37.954+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "ba953c014f346709d81349dfdfafcc8db27de6a6",
+        "fields": {
+            "conso_moyenne_mwh": 176.80462668955,
+            "code_grand_secteur": "TERTIAIRE",
+            "code_epci": "241400498",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 25,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 4420.11566723876,
+            "annee": "2011",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:37.954+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "d38ae621081dfd1c391cc58ec1611a6a93632984",
+        "fields": {
+            "conso_moyenne_mwh": 7.022,
+            "code_grand_secteur": "AGRICULTURE",
+            "code_epci": "241400498",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 1,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 7.022,
+            "annee": "2011",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:37.954+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "675f63e940bae8ed5832e9b0d92067a7f0bc0449",
+        "fields": {
+            "conso_moyenne_mwh": 0.0,
+            "code_grand_secteur": "INCONNU",
+            "code_epci": "241400498",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 0,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 0.0,
+            "annee": "2011",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:37.954+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "c091c695ca61c7fed7e128df5e2aa8bc58114e21",
+        "fields": {
+            "code_grand_secteur": "PETIT_PROFESSIONNEL",
+            "code_epci": "241400498",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "code_departement": "14",
+            "code_categorie_consommation": "PRO",
+            "nom_departement": "Calvados",
+            "annee": "2011",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:37.954+02:00"
+    },
+    {
+        "datasetid": "consommation-electrique-annuelle-a-la-maille-commune@fleurysurorne",
+        "recordid": "a01b582150bc76fb983cb5a4654478a291e523f3",
+        "fields": {
+            "conso_moyenne_mwh": 121.119573067877,
+            "code_grand_secteur": "INDUSTRIE",
+            "code_epci": "241400498",
+            "nom_epci": "CA Caen la Mer",
+            "code_commune": "14271",
+            "nom_region": "Normandie",
+            "nom_commune": "Fleury-sur-Orne",
+            "nb_sites": 4,
+            "code_departement": "14",
+            "code_categorie_consommation": "ENT",
+            "nom_departement": "Calvados",
+            "conso_totale_mwh": 484.47829227151,
+            "annee": "2011",
+            "code_region": "28",
+            "centroid": [
+                49.144633004,
+                -0.37746842900000005
+            ],
+            "type_epci": "CA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.37746842900000005,
+                49.144633004
+            ]
+        },
+        "record_timestamp": "2020-04-16T12:30:37.954+02:00"
+    }
+]

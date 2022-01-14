@@ -1,0 +1,14 @@
+{
+  "name": "dataset_api",
+  "version": "1.0.0",
+  "description": "Api avec des datas pour les students",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.js"
+  },
+  "author": "Bstorm",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
